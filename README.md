@@ -1,17 +1,15 @@
 <h1 align="center">Hola 👋, Soy Mohamed Bouirig</h1>
-<h2 align="center">Apasionado por el desarrollo web, especializado en Backend y Frontend</h2>
+<h3 align="center">Apasionado por el desarrollo web, especializado en Backend y Frontend</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohabouirig&label=Profile%20views&color=0e75b6&style=flat" alt="mohabouirig" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohabouirig" alt="mohabouirig" /></a> </p>
+<h3 align="left">Projects:</h3>
 
 - 🔭 Videoclub con REACT [Link proyecto](https://github.com/MohaBouirig/react-videoclub)
 
 - 👨‍💻 Videoclub con LARAVEL [Link proyecto](https://github.com/MohaBouirig/laravel-videoclub)
 
-- 💬 Ahorcado con JAVASCRIPT [Link proyecto](https://github.com/MohaBouirig/JS-Ahorcado) 
-
-- 📄 POO - MVC - COOKIES - SESIONES [Link proyectos](https://github.com/MohaBouirig/Proyectos-php-poo-mvc-cookies-sesiones)
+- 💬 Ahorcado con JAVASCRIPT [Link proyecto](https://github.com/MohaBouirig/JS-Ahorcado)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,3 +22,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohabouirig&show_icons=true&locale=en&layout=compact" alt="mohabouirig" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohabouirig&show_icons=true&locale=en" alt="mohabouirig" /></p>
+
